@@ -1,0 +1,2 @@
+# MernBasic
+Basic MERN setup
